@@ -1,0 +1,11 @@
+<!ENTITY name "POSTask">
+
+<!ELEMENT ADJECTIVE ( #PCDATA ) >
+<!ATTLIST ADJECTIVE start #IMPLIED >	
+
+<!ATTLIST ADJECTIVE position (attributive | predicative) #IMPLIED>
+
+<!ATTLIST ADJECTIVE morphology (normal | comparative | superlative) #IMPLIED>
+
+<!ATTLIST ADJECTIVE comment CDATA >
+

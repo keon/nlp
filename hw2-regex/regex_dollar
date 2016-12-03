@@ -1,0 +1,1 @@
+(\$[\s]?([\d\,]+)([\.\d+](\d+))([\s]?(thousand|million|billion|trillion))?)|(((three|half)[\s]?)?([\w\.\,]+)([\s]*(dollars|dollar)))
